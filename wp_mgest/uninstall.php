@@ -1,0 +1,1 @@
+<?php/*Uninstall file*/if (!defined('ABSPATH')) die("Accesso diretto al file non permesso");delete_option( 'wp_mgest' );?>

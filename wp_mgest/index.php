@@ -1,0 +1,1 @@
+<?php/*This is the index file*/
